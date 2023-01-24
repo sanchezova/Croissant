@@ -1,0 +1,21 @@
+
+h1 {
+    text-align:center;
+}
+p {
+    text-align:center;
+}
+.navigation-links {
+    display:flex;
+    justify-content:center;
+    
+}
+.navigation-links a {
+    margin:20px;
+    color:green;
+}
+img {
+    display:block;
+    margin:0 auto;
+    border-radius:7px;
+}
