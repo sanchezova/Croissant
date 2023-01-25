@@ -1,12 +1,11 @@
 body {
     Background-color:#91cba7;
 }
-h1 {
-    text-align:center;
-}
+h1, 
 p {
     text-align:center;
 }
+
 .navigation-links {
     display:flex;
     justify-content:center;
